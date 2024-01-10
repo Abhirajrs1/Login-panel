@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-image:url('https://2.bp.blogspot.com/-KpHW4-zOauU/Tl8q7NJNEbI/AAAAAAAAHAs/AL5Zp_I6qfk/s1600/amazing+background+images-2.jpg') ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.center-div{
+    padding-top: 10%;
+}
+/* button{
+    padding-top: 20rem;
+} */
+
+.btn.btn-success{
+    padding: 30rem 2em;
+    padding-top: 20px;
+    padding-bottom: 20px; 
+}
+
+form{
+    padding: 0 3em;
+    
+}
+
+#login.title>span{
+    font-size: 8em;
+}
+
+h2{
+    color:rgb(202, 194, 194);
+    
+}
+h3{
+    color: rgb(186, 183, 183);
+}
+span{
+    color: rgb(205, 194, 194);
+}
+small{
+    color: rgb(149, 142, 142);
+}
+a{
+    color: rgb(182, 175, 175);
+}
